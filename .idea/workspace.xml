@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d5ecbdd9-8e94-4bf9-98e1-ed9337e1f354" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TigerNet/static/models.py" afterPath="$PROJECT_DIR$/TigerNet/static/models.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -549,7 +548,14 @@
       <option name="project" value="LOCAL" />
       <updated>1490987132543</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added Login db pt 2">
+      <created>1491338863656</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1491338863656</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -585,7 +591,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Login Script: Need to convert to current but this one works" />
     <MESSAGE value="Added Login db" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Login db" />
+    <MESSAGE value="Added Login db pt 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Login db pt 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
